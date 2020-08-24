@@ -1,3 +1,3 @@
 # SegVAE
 
-Code and project page coming soon.
+Project page coming soon.
