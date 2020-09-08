@@ -1,18 +1,18 @@
 # SegVAE
 
-| [[Project Page]](https://yccyenchicheng.github.io/SegVAE/) | [[Conference Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520154.pdf) | [[ArXiv]](https://arxiv.org/abs/2007.08397) | 
+| [Project Page](https://yccyenchicheng.github.io/SegVAE/) | [Conference Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520154.pdf) | [ArXiv](https://arxiv.org/abs/2007.08397) | 
 
 Controllable Image Synthesis via SegVAE.  
 [Yen-Chi Cheng](https://yccyenchicheng.github.io/), [Hsin-Ying Lee](http://vllab.ucmerced.edu/hylee/), [Min Sun](https://aliensunmin.github.io/), and [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/).    
 In European Conference on Computer Vision (ECCV), 2020.
 
-PyTorch implementation for our SegVAE. With the proposed VAE-based framework, we are able to learn diverse and plausible semantic maps generation given a label-set. This provides flexible user editing for image synthesis.
+PyTorch implementation for our SegVAE. With the proposed VAE-based framework, we are able to learn how to generate diverse and plausible semantic maps given a label-set. This provides flexible user editing for image synthesis.
 
 ## Usage
 ### Prerequisites
 * Ubuntu 18.04 or 16.04
 * Python >= 3.6 
-* PyTorch 1.0
+* PyTorch >= 1.0
 * [tensorboardX](https://github.com/lanpa/tensorboardX) (which requires `tensorflow==1.14.0`)
 
 ### Installation
